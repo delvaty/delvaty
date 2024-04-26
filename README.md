@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Angular 17
 - 👯 I’m looking to collaborate on public reposiories
 - ⚡ Fun fact: I'm student
---> Linkedin: [Robert Delvaty Díaz](www.linkedin.com/in/robert-delvaty-diaz-6228582b5)
+--> Linkedin: [Robert Delvaty Díaz](https://www.linkedin.com/in/robert-delvaty-diaz-6228582b5)
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=delvaty&show_icons=true&theme=dark" alt="delvaty" />
