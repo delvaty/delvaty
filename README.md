@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at [General Software Inc](https://generalsoftwareinc.com/). as a backend developer
-- 🌱 I’m currently learning Rust and Golang
+
+- 🌱 I’m currently learning Angular 17
 - 👯 I’m looking to collaborate on public reposiories
 - ⚡ Fun fact: I'm student
---> Linkedin: [Héctor Ramón Huerta Garcia](https://www.linkedin.com/in/h%C3%A9ctor-huerta-garcia-a731a6250/)
+--> Linkedin: [Robert Delvaty Díaz](www.linkedin.com/in/robert-delvaty-diaz-6228582b5)
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=delvaty&show_icons=true&theme=dark" alt="hectorrhg" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=delvaty&show_icons=true&theme=dark" alt="delvaty" />
 <div/>
 <br />
   
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delvaty&layout=compact&hide=html&theme=dark" alt="hectorrhg" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delvaty&layout=compact&hide=html&theme=dark" alt="delvaty" />
 <div/>
 <br />
